@@ -3,6 +3,9 @@ package edu.cuboulder.csci44485448.payroll;
 import java.util.ArrayList;
 import java.util.List;
 
+// Assignment #1: Payroll
+// Authors: Simoen Koeten and Daniel Koris
+
 public class Main {
 	
 	private static List<Employee> employees = new ArrayList<Employee>();
